@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+=======
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #181818;
+    color: #ffffff;
+>>>>>>> origin/Neftali_Home
 }
 
 .logo {
@@ -37,6 +45,14 @@
   padding: 2em;
 }
 
+<<<<<<< HEAD
 .read-the-docs {
   color: #888;
+=======
+h1 {
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 2.5rem;
+    color: #ff000d;
+>>>>>>> origin/Neftali_Home
 }
